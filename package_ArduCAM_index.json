@@ -13,7 +13,7 @@
 					"url":"https://github.com/ArduCAM/ArduCAM_ESP8266_UNO/releases/download/V2.0.4/ArduCAM_ESP8266_UNO.zip",
 					"checksum":"SHA-256:2B9514BC37FD277284EDD44BEDA2CC7BC50F5683157A92DB03B65AB89D6E8ED3",
 					"help":{ "online":"https://github.com/ArduCAM/ArduCAM_ESP8266_UNO" },
-					"version":"2.2.3",
+					"version":"2.2.4",
 					"architecture":"ArduCAM_ESP8266_UNO",
 					"archiveFileName":"ArduCAM_ESP8266_UNO.zip",
 					"boards":
